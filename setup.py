@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="django-amp-by-ByteCore",
-    version="0.0.1",
+    version="0.0.2",
     author="ByteCore",
     author_email="",
     description="AMP helpers for django",
