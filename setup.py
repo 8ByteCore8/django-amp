@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="django-amp",
+    name="django-amp_by_ByteCore",
     version="0.0.1",
     author="ByteCore",
     author_email="",
