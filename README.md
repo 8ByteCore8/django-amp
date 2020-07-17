@@ -4,7 +4,7 @@ amp - это Django приложение для имплементации и а
 
 Установка
 ===
-1. ``pip install django-amp``
+1. ``pip install django-amp-by-ByteCore``
 2. Добавить ``amp`` в список ``INSTALLED_APPS``
 3. Добавить ``amp.middleware.AMPMiddleware`` в список ``MIDDLEWARE``
 
