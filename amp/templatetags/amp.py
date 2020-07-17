@@ -1,9 +1,9 @@
 from django import template
-from amp_handler.utils import get_amphtml_path, get_amp_img, get_amp_iframe, get_file_content
+from amp.utils import get_amphtml_path, get_amp_img, get_amp_iframe, get_file_content
 from django.urls import reverse
 import re
 from django.utils.safestring import SafeString
-from amp_handler import get_amp_state
+from amp import get_amp_state
 
 
 register = template.Library()
